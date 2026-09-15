@@ -1,0 +1,7 @@
+streamlit
+pdfplumber
+nltk
+sentence-transformers
+chromadb
+ollama
+openai  # only needed if USE_OPENAI=true
