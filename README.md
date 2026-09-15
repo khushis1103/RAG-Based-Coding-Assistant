@@ -71,15 +71,14 @@ streamlit run app.py
 
 ## Project Structure
 
-RAG-Based Document Assistant/
-├── chroma_db/
+```text
 ├── app.py
+├── experiment.ipynb
 ├── demo1.png
 ├── demo2.png
-├── experiment.ipynb
 ├── pwc-global-annual-review-2025.pdf
-├── README.md
-└── requirements.txt
+├── requirements.txt
+└── README.md
 
 ## Known limitation
 
