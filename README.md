@@ -23,6 +23,11 @@ The repository includes PwC's Global Annual Review 2025 PDF, used to build and v
 
 ## DEMO Screenshots
 
+### Document Upload
+![Document Upload](demo1.png)
+
+### Question Answering
+![Question Answering](demo2.png)
 
 
 ## Tech Stack
